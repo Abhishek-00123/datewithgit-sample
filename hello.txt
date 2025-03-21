@@ -1,3 +1,7 @@
 hey i am here 
 yaa.. man
+<<<<<<< HEAD
 could you meet me at 4pm
+=======
+can we meet
+>>>>>>> feature
